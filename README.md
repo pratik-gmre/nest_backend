@@ -86,3 +86,10 @@ npm start
 - Example : {"agentId":"12368","agentName":"sudeep Khan","amountSold":4,"salesCount":2}
 
 
+## Curl 
+- curl -X POST "https://nest-backend-dw5j.onrender.com/api/leaderboard?limit=10" \
+  -H "Content-Type: application/json" \
+  -d '{"agentId":"12368","agentName":"Sudeep Khan","amountSold":46,"salesCount":2}'
+
+
+
