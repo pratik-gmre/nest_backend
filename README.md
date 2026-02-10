@@ -72,8 +72,8 @@ DB_URL=your_database_connection_string
 
 Clone this repository
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/pratik-gmre/nest_backend.git
+cd nest_backend
 npm install
 
 
